@@ -1,12 +1,11 @@
 <div align="center">
-  
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF00F6&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
   </a>
 </div>
 
 <div align="center">
-  <img alt="Header GIF" src="./src/header-gif.gif">
+  <img alt="Header GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHY5M3Z6cWF6NzN0Y3MwbXNkc3R5NmE3a3dqYWh4cDZ1cHZpNHM0NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L1R1TvI9svfIWglYrF/giphy.gif" width="55%">
 </div>
 
 <p align="center">
@@ -30,20 +29,21 @@
 </div>
 
 ---
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/MaySperandio/MaySperandio/main/assets/pink-line.gif" width="100%">
 </div>
-  <p><b>Minhas contribuições</b></p>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AdrielleMendes/AdrielleMendes/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AdrielleMendes/AdrielleMendes/output/github-contribution-grid-snake.svg">
-    <img alt="github-snake" src="https://raw.githubusercontent.com/AdrielleMendes/AdrielleMendes/output/github-contribution-grid-snake-dark.svg">
-  </picture>
-</div>
+
+<p><b>Minhas contribuições</b></p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AdrielleMendes/AdrielleMendes/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AdrielleMendes/AdrielleMendes/output/github-contribution-grid-snake.svg">
+  <img alt="github-snake" src="https://raw.githubusercontent.com/AdrielleMendes/AdrielleMendes/output/github-contribution-grid-snake-dark.svg">
+</picture>
 
 ---
 
-<img align="right" alt="Study GIF" height="190px" src="./src/study.gif">
+<img align="right" alt="Study GIF" height="170px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3N2NWF6M2MwYTNid3Y2Zmw2dzVqcWw2bzh0YjN2N3NnMzF6Y3I1NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ZgYAzf2A4gP7dy3ye8/giphy.gif">
 
 <h3 align="left">🛠️ Tecnologias e Ferramentas</h3>
 
@@ -54,7 +54,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" alt="mysql logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="35" alt="sqlite logo" />
+  <img src="https://cdn.jsdelivr.gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="35" alt="sqlite logo" />
 </div>
 
 <br>
