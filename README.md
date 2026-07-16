@@ -4,11 +4,6 @@
   </a>
 </div>
 
-<div align="center">
-  <!-- GIF Principal de Cabeçalho (Notebook Rosa fofo do seu repositório) -->
-  <img alt="Header GIF" src="https://raw.githubusercontent.com/AdrielleMendes/AdrielleMendes/main/src/header-gif.gif" width="55%">
-</div>
-
 <p align="center">
   👩🏻‍💻 Estudante de Engenharia da Computação
   <br>
@@ -44,8 +39,8 @@
 
 ---
 
-<!-- GIF de Programação Rosa Fofo ao lado das ferramentas -->
-<img align="right" alt="Study GIF" height="150px" src="https://raw.githubusercontent.com/AdrielleMendes/AdrielleMendes/main/src/study.gif">
+<!-- GIF do Computador Rosa fofo alinhado à direita das tecnologias -->
+<img align="right" alt="Computer GIF" height="150px" src="https://raw.githubusercontent.com/AdrielleMendes/AdrielleMendes/main/header-gif.gif">
 
 <h3 align="left">🛠️ Tecnologias e Ferramentas</h3>
 
