@@ -1,72 +1,46 @@
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF00F6&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
-  </a>
-</div>
+# ⪹ Welcome to my profile! ˙ᵕ˙ ⪹
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF00F6&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9)
 
-<div align="center">
-  <img alt="Header GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHY5M3Z6cWF6NzN0Y3MwbXNkc3R5NmE3a3dqYWh4cDZ1cHZpNHM0NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L1R1TvI9svfIWglYrF/giphy.gif" width="55%">
-</div>
+![Header GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHY5M3Z6cWF6NzN0Y3MwbXNkc3R5NmE3a3dqYWh4cDZ1cHZpNHM0NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L1R1TvI9svfIWglYrF/giphy.gif)
 
 <p align="center">
-  👩🏻‍💻 Estudante de Engenharia da Computação
-  <br>
-  👩🏻‍🎓 Universidade Federal Rural de Pernambuco
-  <br>
-  🌷 Apaixonada por tecnologia e criatividade
-  <br>
-  💭 Atualmente aprendendo sobre banco de dados 
+  👩🏻‍💻 Estudante de Engenharia da Computação <br>
+  👩🏻‍🎓 Universidade Federal Rural de Pernambuco <br>
+  🌷 Apaixonada por tecnologia e criatividade <br>
+  💭 Atualmente aprendendo sobre banco de dados
 </p>
 
 ---
 
-<div align="center">
-  <h3>📊 Minhas Estatísticas</h3>
-  <br>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AdrielleMendes&show_icons=true&theme=tokyonight&bg_color=16161a&title_color=FF00F6&text_color=FFF&icon_color=FF00F6&border_color=36123c&count_private=true&include_all_commits=true" alt="Estatísticas">
-  <br>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AdrielleMendes&layout=compact&theme=tokyonight&bg_color=16161a&title_color=FF00F6&text_color=FFF&border_color=36123c&hide=html,css,javascript&langs_count=4" alt="Linguagens">
-</div>
+### 📊 Minhas Estatísticas
+
+![Estatísticas](https://github-readme-stats-sigma-five.vercel.app/api?username=AdrielleMendes&show_icons=true&theme=tokyonight&bg_color=16161a&title_color=FF00F6&text_color=FFF&icon_color=FF00F6&border_color=36123c&count_private=true&include_all_commits=true)
+
+![Linguagens](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AdrielleMendes&layout=compact&theme=tokyonight&bg_color=16161a&title_color=FF00F6&text_color=FFF&border_color=36123c&hide=html,css,javascript&langs_count=4)
 
 ---
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/MaySperandio/MaySperandio/main/assets/pink-line.gif" width="100%">
-</div>
+![pink-line](https://cdn.jsdelivr.net/gh/MaySperandio/MaySperandio/main/assets/pink-line.gif)
 
-<p><b>Minhas contribuições</b></p>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AdrielleMendes/AdrielleMendes/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AdrielleMendes/AdrielleMendes/output/github-contribution-grid-snake.svg">
-  <img alt="github-snake" src="https://raw.githubusercontent.com/AdrielleMendes/AdrielleMendes/output/github-contribution-grid-snake-dark.svg">
-</picture>
+**Minhas contribuições**
+
+![github-snake](https://raw.githubusercontent.com/AdrielleMendes/AdrielleMendes/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
-<img align="right" alt="Study GIF" height="170px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3N2NWF6M2MwYTNid3Y2Zmw2dzVqcWw2bzh0YjN2N3NnMzF6Y3I1NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ZgYAzf2A4gP7dy3ye8/giphy.gif">
+### 🛠️ Tecnologias e Ferramentas
 
-<h3 align="left">🛠️ Tecnologias e Ferramentas</h3>
+![Study GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3N2NWF6M2MwYTNid3Y2Zmw2dzVqcWw2bzh0YjN2N3NnMzF6Y3I1NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ZgYAzf2A4gP7dy3ye8/giphy.gif)
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" alt="java logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" alt="mysql logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="35" alt="sqlite logo" />
-</div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" alt="java logo" /> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python logo" /> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" alt="mysql logo" /> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="35" alt="sqlite logo" />
 
 <br>
 <hr>
 
-<h3 align="left">📩 Conecte-se comigo!</h3>
+### 📩 Conecte-se comigo!
 
-<div align="left">
-  <a href="mailto:adriellemendes234@gmail.com">
-    <img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6" alt="Email">
-  </a>
-  <a href="https://www.linkedin.com/in/adrielle-mendes-027400359">
-    <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6" alt="LinkedIn">
-  </a>
-</div>
+[![Email](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6)](mailto:adriellemendes234@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6)](https://www.linkedin.com/in/adrielle-mendes-027400359)
