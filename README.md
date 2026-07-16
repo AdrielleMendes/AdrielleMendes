@@ -39,8 +39,8 @@
 
 ---
 
-<!-- GIF do Computador Rosa fofo alinhado à direita das tecnologias -->
-<img align="right" alt="Computer GIF" height="150px" src="https://raw.githubusercontent.com/AdrielleMendes/AdrielleMendes/main/header-gif.gif">
+<!-- GIF do Computador Rosa com ajuste de alinhamento -->
+<img align="right" alt="Computer GIF" height="130px" src="https://raw.githubusercontent.com/AdrielleMendes/AdrielleMendes/main/header-gif.gif" style="margin-left: 15px; border-radius: 8px;">
 
 <h3 align="left">🛠️ Tecnologias e Ferramentas</h3>
 
@@ -49,12 +49,14 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" alt="mysql logo" />
+  <img src="https://cdn.jsdelivr.gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" alt="mysql logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="35" alt="sqlite logo" />
 </div>
 
-<br>
+<!-- Isso impede que o GIF "vaze" para baixo e quebre as linhas divisórias -->
+<br clear="all"> 
+
 <hr>
 
 <h3 align="left">📩 Conecte-se comigo!</h3>
