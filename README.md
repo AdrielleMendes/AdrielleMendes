@@ -5,8 +5,8 @@
 </div>
 
 <div align="center">
-  <!-- GIF Principal de Cabeçalho -->
-  <img alt="Header GIF" src="https://raw.githubusercontent.com/AdrielleMendes/AdrielleMendes/main/src/header-gif.gif" width="60%">
+  <!-- GIF Principal de Cabeçalho (Notebook Rosa fofo do seu repositório) -->
+  <img alt="Header GIF" src="https://raw.githubusercontent.com/AdrielleMendes/AdrielleMendes/main/src/header-gif.gif" width="55%">
 </div>
 
 <p align="center">
@@ -44,8 +44,8 @@
 
 ---
 
-<!-- GIF de Programação Lofi ao lado das ferramentas -->
-<img align="right" alt="Study GIF" height="190px" src="https://raw.githubusercontent.com/AdrielleMendes/AdrielleMendes/main/src/study.gif">
+<!-- GIF de Programação Rosa Fofo ao lado das ferramentas -->
+<img align="right" alt="Study GIF" height="150px" src="https://raw.githubusercontent.com/AdrielleMendes/AdrielleMendes/main/src/study.gif">
 
 <h3 align="left">🛠️ Tecnologias e Ferramentas</h3>
 
