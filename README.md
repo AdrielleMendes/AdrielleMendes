@@ -2,14 +2,19 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF00F6&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
   </a>
+
+  <br><br>
+
+  <!-- Esse bloco centraliza a caixa, mas alinha o texto na esquerda -->
+  <div align="left" style="display: inline-block; max-width: 500px;">
+    👩🏻‍💻 Estudante de Engenharia da Computação <br>
+    🎓 Universidade Federal Rural de Pernambuco <br>
+    🌷 Entusiasta de robótica e inteligência artificial aplicada <br>
+    🚀 Atualmente aprendendo sobre ROS e Visão Computacional
+  </div>
 </div>
 
-<br>
-
-- 👩🏻‍💻 Estudante de Engenharia da Computação
-- 🎓 Universidade Federal Rural de Pernambuco
-- 🌷 Entusiasta de robótica e inteligência artificial aplicada
-- 🚀 Atualmente aprendendo sobre ROS e Visão Computacional
+---
 
 ---
 
