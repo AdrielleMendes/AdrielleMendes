@@ -11,7 +11,7 @@
   <br>
   🌷Entusiasta de robótica e inteligência artificial aplicada
   <br>
-  🚀 Atualmente aprendendo sobre ROS (Robot Operating System) e Visão Computacional
+  🚀 Atualmente aprendendo sobre ROS e Visão Computacional
 </p>
 
 ---
