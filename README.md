@@ -6,12 +6,12 @@
 
 <p align="center">
   👩🏻‍💻 Estudante de Engenharia da Computação
-  <br>
-  👩🏻‍🎓 Universidade Federal Rural de Pernambuco
-  <br>
-   🌷Entusiasta de robótica e inteligência artificial aplicada
-  <br>
-   🚀 Atualmente aprendendo sobre ROS e Visão Computacional
+<br>
+👩🏻‍🎓 Universidade Federal Rural de Pernambuco
+<br>
+🌷 Entusiasta de robótica e inteligência artificial aplicada
+<br>
+🚀 Atualmente aprendendo sobre ROS e Visão Computacional
 </p>
 
 ---
