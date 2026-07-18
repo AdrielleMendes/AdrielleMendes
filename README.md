@@ -4,16 +4,18 @@
   </a>
 </div>
 
-<p align="center">
-  👩🏻‍💻 Estudante de Engenharia da Computação
-<br>
-👩🏻‍🎓 Universidade Federal Rural de Pernambuco
-<br>
-🌷 Entusiasta de robótica e inteligência artificial aplicada
-<br>
-🚀 Atualmente aprendendo sobre ROS e Visão Computacional
-</p>
-
+<div align="center">
+  <table>
+    <tr>
+      <td align="left" style="border: none;">
+        👩🏻‍💻 Estudante de Engenharia da Computação <br>
+        🎓 Universidade Federal Rural de Pernambuco <br>
+        🌷 Entusiasta de robótica e inteligência artificial aplicada <br>
+        🚀 Atualmente aprendendo sobre ROS e Visão Computacional
+      </td>
+    </tr>
+  </table>
+</div>
 ---
 
 <div align="center">
