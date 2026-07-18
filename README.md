@@ -9,9 +9,9 @@
   <br>
   👩🏻‍🎓 Universidade Federal Rural de Pernambuco
   <br>
-  🌷 Apaixonada por tecnologia e criatividade
+  🌷Entusiasta de robótica e inteligência artificial aplicada
   <br>
-  💭 Atualmente aprendendo sobre banco de dados 
+  🚀 Atualmente aprendendo sobre ROS (Robot Operating System) e Visão Computacional
 </p>
 
 ---
