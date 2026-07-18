@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <table>
+  
     <tr>
       <td align="left" style="border: none;">
         👩🏻‍💻 Estudante de Engenharia da Computação <br>
@@ -14,7 +14,7 @@
         🚀 Atualmente aprendendo sobre ROS e Visão Computacional
       </td>
     </tr>
-  </table>
+
 </div>
 ---
 
