@@ -4,23 +4,20 @@
   </a>
 </div>
 
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF00F6&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
-  </a>
-</div>
+<br>
 
-👩🏻‍💻 Estudante de Engenharia da Computação <br>
-🎓 Universidade Federal Rural de Pernambuco <br>
-🌷 Entusiasta de robótica e inteligência artificial aplicada <br>
-🚀 Atualmente aprendendo sobre ROS e Visão Computacional
+- 👩🏻‍💻 Estudante de Engenharia da Computação
+- 🎓 Universidade Federal Rural de Pernambuco
+- 🌷 Entusiasta de robótica e inteligência artificial aplicada
+- 🚀 Atualmente aprendendo sobre ROS e Visão Computacional
+
 ---
 
 <div align="center">
   <h3>📊 Minhas Estatísticas</h3>
   <br>
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AdrielleMendes&show_icons=true&theme=tokyonight&bg_color=16161a&title_color=FF00F6&text_color=FFF&icon_color=FF00F6&border_color=36123c&count_private=true&include_all_commits=true" alt="Estatísticas">
-  <br>
+  <br><br>
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AdrielleMendes&layout=compact&theme=tokyonight&bg_color=16161a&title_color=FF00F6&text_color=FFF&border_color=36123c&hide=html,css,javascript&langs_count=4" alt="Linguagens">
 </div>
 
@@ -30,7 +27,7 @@
   <img src="https://cdn.jsdelivr.net/gh/MaySperandio/MaySperandio/main/assets/pink-line.gif" width="100%">
 </div>
 
-<p><b>Minhas contribuições</b></p>
+<h3>🐍 Minhas contribuições</h3>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AdrielleMendes/AdrielleMendes/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AdrielleMendes/AdrielleMendes/output/github-contribution-grid-snake.svg">
@@ -39,33 +36,29 @@
 
 ---
 
-<!-- GIF do Computador Rosa com ajuste de alinhamento -->
+
 <img align="right" alt="Computer GIF" height="130px" src="https://raw.githubusercontent.com/AdrielleMendes/AdrielleMendes/main/header-gif.gif" style="margin-left: 15px; border-radius: 8px;">
 
-<h3 align="left">🛠️ Tecnologias e Ferramentas</h3>
+<h3>🛠️ Tecnologias e Ferramentas</h3>
 
-<div align="left">
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" alt="java logo" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" alt="mysql logo" />
-  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" alt="mysql logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="35" alt="sqlite logo" />
-</div>
+</p>
 
-<!-- Isso impede que o GIF "vaze" para baixo e quebre as linhas divisórias -->
 <br clear="all"> 
 
 <hr>
 
-<h3 align="left">📩 Conecte-se comigo!</h3>
+<h3>📩 Conecte-se comigo!</h3>
 
-<div align="left">
+<p align="left">
   <a href="mailto:adriellemendes234@gmail.com">
     <img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6" alt="Email">
   </a>
   <a href="https://www.linkedin.com/in/adrielle-mendes-027400359">
     <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6" alt="LinkedIn">
   </a>
-</div>
+</p>
