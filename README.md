@@ -15,13 +15,14 @@
 </div>
 
 ---
-
 <div align="center">
   <h3>📊 Minhas Estatísticas</h3>
   <br>
-  <img src="https://streak-stats.demolab.com?user=AdrielleMendes&theme=tokyonight&background=16161a&border=36123c&ring=FF00F6&fire=FF00F6&currStreakLabel=FF00F6" alt="GitHub Streak">
+  <!-- Gráfico de atividade recente -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdrielleMendes&bg_color=16161a&color=FF00F6&line=FF00F6&point=FFFFFF&area=true&hide_border=false&border_color=36123c" alt="Activity Graph" width="90%">
   <br><br>
-  <img src="https://github-profile-trophy.vercel.app/?username=AdrielleMendes&theme=tokyonight&margin-w=4&margin-h=4&column=4" alt="GitHub Trophies">
+  <!-- Cards de linguagens e métricas -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AdrielleMendes&theme=tokyonight" alt="Profile Summary">
 </div>
 ---
 
