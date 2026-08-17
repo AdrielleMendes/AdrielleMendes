@@ -19,11 +19,10 @@
 <div align="center">
   <h3>📊 Minhas Estatísticas</h3>
   <br>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AdrielleMendes&show_icons=true&theme=tokyonight&bg_color=16161a&title_color=FF00F6&text_color=FFF&icon_color=FF00F6&border_color=36123c&count_private=true&include_all_commits=true" alt="Estatísticas">
+  <img src="https://streak-stats.demolab.com?user=AdrielleMendes&theme=tokyonight&background=16161a&border=36123c&ring=FF00F6&fire=FF00F6&currStreakLabel=FF00F6" alt="GitHub Streak">
   <br><br>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AdrielleMendes&layout=compact&theme=tokyonight&bg_color=16161a&title_color=FF00F6&text_color=FFF&border_color=36123c&hide=html,css,javascript&langs_count=4" alt="Linguagens">
+  <img src="https://github-profile-trophy.vercel.app/?username=AdrielleMendes&theme=tokyonight&margin-w=4&margin-h=4&column=4" alt="GitHub Trophies">
 </div>
-
 ---
 
 <div align="center">
