@@ -16,7 +16,7 @@
 
 ---
 <div align="center">
-  <h3>📊 Minhas Estatísticas</h3>
+  <h3> Minhas Estatísticas</h3>
   <br>
   <!-- Gráfico de atividade recente -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdrielleMendes&bg_color=16161a&color=FF00F6&line=FF00F6&point=FFFFFF&area=true&hide_border=false&border_color=36123c" alt="Activity Graph" width="90%">
