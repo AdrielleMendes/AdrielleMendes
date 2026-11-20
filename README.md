@@ -7,10 +7,10 @@
 
   <!-- Apresentação -->
   <div align="left" style="display: inline-block; max-width: 500px;">
-    👩🏻‍💻 Estudante de Engenharia da Computação <br>
-    🎓 Universidade Federal Rural de Pernambuco <br>
-    🌷 Entusiasta de robótica e inteligência artificial aplicada <br>
-    🚀 Atualmente aprendendo sobre ROS e Visão Computacional
+     Estudante de Engenharia da Computação <br>
+     Universidade Federal Rural de Pernambuco <br>
+     Entusiasta de robótica e inteligência artificial aplicada <br>
+     Atualmente aprendendo sobre ROS e Visão Computacional
   </div>
 </div>
 
@@ -30,7 +30,7 @@
   <img src="https://cdn.jsdelivr.net/gh/MaySperandio/MaySperandio/main/assets/pink-line.gif" width="100%">
 </div>
 
-<h3>🐍 Minhas contribuições</h3>
+<h3> Minhas contribuições</h3>
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AdrielleMendes/AdrielleMendes/output/github-contribution-grid-snake-dark.svg">
@@ -43,7 +43,7 @@
 
 <img align="right" alt="Computer GIF" height="130px" src="https://raw.githubusercontent.com/AdrielleMendes/AdrielleMendes/main/header-gif.gif" style="margin-left: 15px; border-radius: 8px;">
 
-<h3>🛠️ Tecnologias e Ferramentas</h3>
+<h3> Tecnologias e Ferramentas</h3>
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" alt="Java" />
@@ -56,7 +56,7 @@
 
 ---
 
-<h3>📩 Conecte-se comigo!</h3>
+<h3> Conecte-se comigo!</h3>
 
 <p align="left">
   <a href="mailto:adriellemendes234@gmail.com">
